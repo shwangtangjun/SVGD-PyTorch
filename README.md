@@ -1,5 +1,4 @@
 # SVGD-PyTorch
-A PyTorch implementation of SVGD (Stein Variational Gradient Descent), contains all examples including bayesian inference in the paper
 
 The author provides sample [code](https://github.com/dilinwang820/Stein-Variational-Gradient-Descent) using numpy and explicit gradient calculation. However, PyTorch provides autograd mechanism and we can considerably simplify author's code and make it more readable.
 
